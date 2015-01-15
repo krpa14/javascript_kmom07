@@ -1,0 +1,10 @@
+{
+  "name": "kmom10",
+  "title": "kmom10",
+  "id": "jid1-bKzh4ozZgEuMXA",
+  "description": "a basic adblocker add-on, created as a project in BTH's JavaScript course.",
+  "author": "Kristian Persson",
+  "license": "MIT",
+  "icon": "data/target-32.png",
+  "version": "1.0"
+}
