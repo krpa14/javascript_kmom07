@@ -1,4 +1,4 @@
-
+//Get the edit-box
 var textArea = document.getElementById("edit-box");
 
 var ok_button = document.getElementById("ok");
